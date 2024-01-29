@@ -1,0 +1,7 @@
+streamlit==1.30.0          # Replace <version> with the specific version you are using
+pandas==2.1.4            # Replace <version> with the specific version you are using
+numpy==1.24.2              # Replace <version> with the specific version you are using
+scikit-learn==1.4.0     # Replace <version> with the specific version you are using
+category-encoders==2.6.3  # Replace <version> with the specific version you are using
+plotly==5.18.0           # Replace <version> with the specific version you are using
+openpyxl==3.1.2
